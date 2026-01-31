@@ -71,7 +71,7 @@ The following naming conventions are equivalent and should be searched interchan
 ## Use of External References
 
 External references (DoD, USAF, FEMA, ICS, aviation guidance) may be used **only when CAP documentation explicitly defers to them**.
-
+Unofficial sources (forums/Reddit) are never authoritative and must not be cited.
 If a conflict exists:
 
 > **CAP guidance always takes precedence.**
