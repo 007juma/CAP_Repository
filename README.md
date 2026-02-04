@@ -24,17 +24,43 @@ If a CAP concept, program, or activity is governed by any of the above, that doc
 
 ---
 
-## Official CAP Websites (Authoritative)
-The following websites are considered official sources of Civil Air Patrol guidance:
+## Authoritative CAP Policy Sources
 
-* [https://www.gocivilairpatrol.com](https://www.gocivilairpatrol.com)
-* [https://www.capnhq.gov](https://www.capnhq.gov)
-* [https://pcr.cap.gov](https://pcr.cap.gov)
-* [https://cawg.cap.gov](https://cawg.cap.gov)
-* [https://www.vanguardmil.com/](https://www.vanguardmil.com/)
-* Official National, Region, or Wing CAP webpages
-* Official CAP memorandums or policy announcements
-Other websites are not authoritative unless explicitly referenced by CAP publications.
+The following websites are considered authoritative sources of Civil Air Patrol
+policy, regulations, official guidance, and governance:
+
+- https://www.gocivilairpatrol.com
+- https://www.capnhq.gov
+- https://pcr.cap.gov
+- https://cawg.cap.gov
+- Official National, Region, or Wing CAP webpages
+- Official CAP memorandums or policy announcements
+
+These sources define CAP requirements and are authoritative for compliance decisions.
+
+---
+
+## Authorized CAP Vendors (Non-Authoritative)
+
+The following websites are CAP-recognized or authorized vendors for procurement
+of uniform items and supplies:
+
+- https://www.vanguardmil.com/
+
+Authorized vendor websites:
+- May be referenced for availability of authorized items
+- May be linked for ordering purposes
+- Do NOT define CAP policy, requirements, specifications, or authoritative data
+- Do NOT convert product metadata (SKU, UPC, descriptions) into CAP-governed policy
+
+Vendor information is non-authoritative and must not be used to infer CAP rules.
+
+---
+
+## Non-Authoritative Sources
+
+All other websites are non-authoritative unless explicitly referenced
+by an authoritative CAP publication.
 
 ---
 
