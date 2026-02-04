@@ -40,23 +40,35 @@ These sources define CAP requirements and are authoritative for compliance decis
 
 ---
 
-## Authorized CAP Vendors (Non-Authoritative)
+## Authorized CAP Vendors (Procurement Only)
 
 The following websites are CAP-recognized or authorized vendors for procurement
-of uniform items and supplies:
+of uniforms and supplies:
 
 - https://www.vanguardmil.com/
 
-Authorized vendor websites:
-- May be referenced for availability of authorized items
-- May be linked for ordering purposes
-- Do NOT define CAP policy, requirements, specifications, or authoritative data
-- Do NOT convert product metadata (SKU, UPC, descriptions) into CAP-governed policy
+Authorization of a vendor means:
+- The vendor is approved for purchasing CAP-authorized items
+- The vendor may be referenced to direct members where to buy uniforms
 
-Vendor information is non-authoritative and must not be used to infer CAP rules.
+Vendor authorization does NOT mean:
+- Vendor product descriptions define CAP policy
+- Vendor inventory systems (SKU, UPC, product metadata) are CAP-governed
+- Vendor data is authoritative for CAP compliance verification
+
+CAP policy and uniform authorization are defined ONLY by authoritative CAP publications.
 
 ---
 
+## Data Authority Boundary (Critical Clarification)
+
+Authorization of a website does not imply authorization of the website’s internal
+data models, product databases, or inventory systems.
+
+Vendor metadata (e.g., SKU, UPC, product descriptions) is non-authoritative and
+must not be treated as CAP-verifiable policy data.
+
+---
 ## Non-Authoritative Sources
 
 All other websites are non-authoritative unless explicitly referenced
