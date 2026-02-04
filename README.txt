@@ -24,6 +24,20 @@ If a CAP concept, program, or activity is governed by any of the above, that doc
 
 ---
 
+## Official CAP Online Sources
+
+*(Only if GitHub guidance is unavailable)*
+
+* [https://www.gocivilairpatrol.com](https://www.gocivilairpatrol.com)
+* [https://www.capnhq.gov](https://www.capnhq.gov)
+* [https://pcr.cap.gov](https://pcr.cap.gov)
+* [https://cawg.cap.gov](https://cawg.cap.gov)
+* [[https://cawg.cap.gov](https://www.vanguardmil.com/)]
+* Official National, Region, or Wing CAP webpages
+* Official CAP memorandums or policy announcements
+
+---
+
 ## CAP Term Interpretation Rule
 
 CAP-specific terms (e.g., **encampment**, **cadet protection**, **emergency services**, **promotions**, **command authority**) are assumed to be **formally defined or governed** by CAP documentation.
