@@ -40,6 +40,16 @@ These sources define CAP requirements and are authoritative for compliance decis
 
 ---
 
+## Data Authority Boundary (Critical Clarification)
+
+Authorization of a website does not imply authorization of the website’s internal
+data models, product databases, or inventory systems.
+
+Vendor metadata (e.g., SKU, UPC, product descriptions) is non-authoritative and
+must not be treated as CAP-verifiable policy data.
+
+---
+
 ## Authorized CAP Vendors (Procurement Only)
 
 The following websites are CAP-recognized or authorized vendors for procurement
