@@ -24,17 +24,17 @@ If a CAP concept, program, or activity is governed by any of the above, that doc
 
 ---
 
-## Official CAP Online Sources
-
-*(Only if GitHub guidance is unavailable)*
+## Official CAP Websites (Authoritative)
+The following websites are considered official sources of Civil Air Patrol guidance:
 
 * [https://www.gocivilairpatrol.com](https://www.gocivilairpatrol.com)
 * [https://www.capnhq.gov](https://www.capnhq.gov)
 * [https://pcr.cap.gov](https://pcr.cap.gov)
 * [https://cawg.cap.gov](https://cawg.cap.gov)
-* [https://www.vanguardmil.com/](https://www.vanguardmil.com/)]
+* [https://www.vanguardmil.com/](https://www.vanguardmil.com/)
 * Official National, Region, or Wing CAP webpages
 * Official CAP memorandums or policy announcements
+Other websites are not authoritative unless explicitly referenced by CAP publications.
 
 ---
 
