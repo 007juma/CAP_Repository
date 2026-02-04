@@ -36,6 +36,8 @@ If a CAP concept, program, or activity is governed by any of the above, that doc
 * Official National, Region, or Wing CAP webpages
 * Official CAP memorandums or policy announcements
 
+---
+
 ## CAP Term Interpretation Rule
 
 CAP-specific terms (e.g., **encampment**, **cadet protection**, **emergency services**, **promotions**, **command authority**) are assumed to be **formally defined or governed** by CAP documentation.
