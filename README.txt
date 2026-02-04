@@ -32,7 +32,7 @@ If a CAP concept, program, or activity is governed by any of the above, that doc
 * [https://www.capnhq.gov](https://www.capnhq.gov)
 * [https://pcr.cap.gov](https://pcr.cap.gov)
 * [https://cawg.cap.gov](https://cawg.cap.gov)
-* [[https://cawg.cap.gov](https://www.vanguardmil.com/)]
+* [https://www.vanguardmil.com/](https://www.vanguardmil.com/)]
 * Official National, Region, or Wing CAP webpages
 * Official CAP memorandums or policy announcements
 
